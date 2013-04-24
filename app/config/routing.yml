@@ -1,0 +1,5 @@
+new_paradyme_user:
+    resource: "@NewParadymeUserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
