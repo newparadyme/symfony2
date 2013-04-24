@@ -1,3 +1,6 @@
+# Cache & Permissions Script
+cache-reset.sh
+
 # IDE - phpStorm
 .idea/*
 
@@ -12,5 +15,4 @@ web/uploads/*
 web/bundles/*
 
 # Configuration files
-app/config/parameters.ini
 app/config/parameters.yml
