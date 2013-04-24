@@ -1,5 +1,7 @@
+fos_userbundle:
+    resource: routing.fosuserbundle.yml
+
 new_paradyme_user:
     resource: "@NewParadymeUserBundle/Controller/"
     type:     annotation
     prefix:   /
-
