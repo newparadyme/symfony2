@@ -1,0 +1,5 @@
+new_paradyme_mongo_odm:
+    resource: "@NewParadymeMongoODMBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
